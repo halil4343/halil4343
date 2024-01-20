@@ -2,8 +2,7 @@
 <br>
 </br>
 <h2>🎓I am a student in</h2>
-<img align='left' src='https://cdn.bau.edu.tr/news/3139p9c7v04hd-bau.png
-' alt='' width='500px'/>
+<img align='left' src="https://cdn.bau.edu.tr/content/5oilwyul5nc8k-bau%20be%C5%9Fikta%C5%9F%20kamp%C3%BCs%C3%BC.png" alt='' width='500px'/>
 
 
 <h2>🤝 Connect with me</h2>

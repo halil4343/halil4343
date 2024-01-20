@@ -10,7 +10,7 @@
 <a href="https://github.com/halil4343"><img align="left" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" alt="Halil Özer | Github" width="50px"/></a>
 <img align='left' src='' alt='' width='50px'/>
 </div>
-</br>
+<br>
 <h2>🌱 I’m currently learning;</h2>
 <div>
 <img align="left" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++ logo" width="50px"/>

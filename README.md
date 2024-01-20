@@ -11,8 +11,7 @@
 <br>
 
 
-
-## 🌱 I’m currently learning;
+<h2>🌱 I’m currently learning;</h2>
 <img align="left" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++ logo" width="50px"/>
 <img align='left' src='https://www.flagdetective.com/images/download/spain-state-hi.jpg' alt='Spanish flag' width='50px'/>
 <img align='left' src='' alt='' width='50px'/>

@@ -15,12 +15,9 @@
 <br>
 </br>
 <h2>🎓 Technical skills</h2>
-<div>
-  <img align='left' src='https://camo.githubusercontent.com/5e7e215d9ff3a7c2e96d09232c11b2205565c841d1129dd2185ebd967284121f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465
-' alt='' width='50px'/>
-  <img align='left' src='' alt='' width='50px'/>
-  <img align='left' src='' alt='' width='50px'/>
-</div>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![PYTHON](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 <h2>🌱 I’m currently learning;</h2>
 <div>
 <img align='left' src='https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png' alt='' width='50px'/>

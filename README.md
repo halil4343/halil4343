@@ -1,7 +1,9 @@
 <h1 align="center">👋 Hi, I’m @halil4343</h1>  
-
+<br>
+</br>
 <h2>🏞️ I'm from Turkey --such a good country to live😊</h2>
-
+<br>
+</br>
 
 <h2>🤝 Connect with me</h2>
 <div>
@@ -19,10 +21,12 @@
 <img align='left' src='' alt='' width='50px'/>
 <img align='left' src='' alt='' width='50px'/>
 </div>
+<br>
 </br>
 
 <h2>💞️ I’m looking to collaborate on ...</h2>
-
+<br>
+</br>
 
 
 <h2> 👀 I’m interested in;</h2>
@@ -32,4 +36,5 @@
 -Self-studying
 -Readind fiction series
 </div>
-
+<br>
+</br>

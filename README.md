@@ -9,7 +9,7 @@
 
 
 ### 🌱 I’m currently learning;
-<img align="left" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg" alt="C++ logo" width="21px"/>
+<img align="left" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++ logo" width="21px"/>
 <div>Spanish</div>
 
 ### 💞️ I’m looking to collaborate on ...

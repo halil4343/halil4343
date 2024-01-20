@@ -15,9 +15,11 @@
 <br>
 </br>
 <h2>🎓 Technical skills</h2>
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/python-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
 <h2>🌱 I’m currently learning;</h2>
 <div>
 <img align='left' src='https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png' alt='' width='50px'/>

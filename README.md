@@ -2,9 +2,9 @@
 <br>
 </br>
 <h2>🎓I am a student in</h2>
-<div align="center">
+<p align="center">
 <img align='left' src="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Bah%C3%A7e%C5%9Fehir_University_logo_horizontal.svg/1200px-Bah%C3%A7e%C5%9Fehir_University_logo_horizontal.svg.png" alt='BAU' width='400px'/>
-</div>
+</p>
 <br>
 </br>
 

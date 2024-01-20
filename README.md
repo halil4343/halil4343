@@ -6,7 +6,7 @@
 - 📫 How to reach me ig/@halilozer434
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://www.w3.org/2000/svg" alt="" height="30" width="40" /></a>
+<a href="your link" target="blank"><img align="center" src="[https://www.w3.org/2000/svg](https://fontawesome.com/icons/instagram?f=brands&s=solid&pc=%23ff4242)" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>

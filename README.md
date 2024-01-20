@@ -14,8 +14,16 @@
 </div>
 <br>
 </br>
+<h2>🎓 Technical skills</h2>
+<div>
+  <img align='left' src='![image](https://github.com/halil4343/halil4343/assets/152891242/f349fc4c-59c5-46a0-874f-abc8e7d765e9)
+' alt='' width='50px'/>
+  <img align='left' src='' alt='' width='50px'/>
+  <img align='left' src='' alt='' width='50px'/>
+</div>
 <h2>🌱 I’m currently learning;</h2>
 <div>
+<img align='left' src='https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png' alt='' width='50px'/>
 <img align="left" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++ logo" width="50px"/>
 <img align='left' src='https://www.flagdetective.com/images/download/spain-state-hi.jpg' alt='Spanish flag' width='50px'/>
 <img align='left' src='https://upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/800px-Flag_of_Germany.svg.png' alt='German flag' width='50px'/>

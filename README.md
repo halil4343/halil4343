@@ -1,6 +1,9 @@
 <h1 align="center">👋 Hi, I’m Halil Özer</h1> 
 <br>
 </br>
+<h2>🎓I am a student in</h2>
+<img align='left' src='https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Bah%C3%A7e%C5%9Fehir_University_logo_horizontal.svg/1200px-Bah%C3%A7e%C5%9Fehir_University_logo_horizontal.svg.png
+' alt='' width='500px'/>
 
 
 <h2>🤝 Connect with me</h2>
@@ -14,7 +17,7 @@
 </br>
 
 
-<h2>🎓 Technical skills</h2>
+<h2>💻 Technical skills</h2>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)

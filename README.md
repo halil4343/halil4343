@@ -39,11 +39,15 @@
 
 
 <h2> 👀 I’m interested in;</h2>
-<div>
+
 -Coding
+  
 -Working on creative things
+
 -Self-studying
+
 -Readind fiction series
-</div>
+
+
 <br>
 </br>

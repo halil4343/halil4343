@@ -7,6 +7,5 @@
 - 
 <a href="https://www.linkedin.com/in/halil-özer-39b708291/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Halil Özer | LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/halilozer434/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Halil Özer | Instagram" width="21px"/></a>
-<a href="https://github.com/halil4343"><img align="left" src="https://github.com/halil4343/halil4343/assets/152891242/0fd1d106-e850-45c7-a1d4-a51a9938a445
-
+<a href="https://github.com/halil4343"><img align="left" src="![image](https://github.com/halil4343/halil4343/assets/152891242/628ccd19-9e73-4c97-b441-893b151574fe)
 " alt="Halil Özer | Github" width="21px"/></a>

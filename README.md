@@ -3,6 +3,8 @@
 </br>
 <h2>🎓I am a student in</h2>
 <img align='left' src="https://upload.wikimedia.org/wikipedia/en/thumb/9/91/Bah%C3%A7e%C5%9Fehir_University_logo_horizontal.svg/1200px-Bah%C3%A7e%C5%9Fehir_University_logo_horizontal.svg.png" alt='' width='500px'/>
+<br>
+</br>
 
 
 <h2>🤝 Connect with me</h2>

@@ -1,6 +1,8 @@
 ### 👋 Hi, I’m @halil4343
+<br>
 
 ### 🏞️ I'm from Turkey --such a good country to live😊
+<br>
 
 ### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/halil-özer-39b708291/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Halil Özer | LinkedIn" width="21px"/></a>
@@ -9,16 +11,21 @@
 <br>
 
 ### 🌱 I’m currently learning;
-<img align="left" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++ logo" width="21px"/>
-<img align='left' src='https://www.flagdetective.com/images/download/spain-state-hi.jpg' alt='Spanish flag' width='21px'/>
+<img align="left" src="https://w7.pngwing.com/pngs/46/626/png-transparent-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template-blue.png" alt="C++ logo" width="30px"/>
+<img align='left' src='https://www.flagdetective.com/images/download/spain-state-hi.jpg' alt='Spanish flag' width='30px'/>
 <img align='left' src='' alt='' width='21px'/>
 <img align='left' src='' alt='' width='21px'/>
 <img align='left' src='' alt='' width='21px'/>
+<br>
 
 ### 💞️ I’m looking to collaborate on ...
+<br>
+
 
 ### 👀 I’m interested in;
 -Coding
 -Working on creative things
 -Self-studying
 -Readind fiction series
+<br>
+
